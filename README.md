@@ -1,5 +1,5 @@
-# 
-
+# 后台采用koa框架实现服务，需启动node app.js
+  前台路由采用了拦截功能,未登录账户跳转到login界面，登录验证后跳转到list界面
 > 
 
 ## Build Setup
